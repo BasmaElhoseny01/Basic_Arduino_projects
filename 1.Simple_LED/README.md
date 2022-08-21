@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/72309546/185811109-be51cf4d-eece-4c05-
 
 
 
-## 🛠️ Comoponets:
+## 🛠️ Components:
 <img align="left" alt="Arduino UNO" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg" draggable="false"/>
  
  <img align="left" alt="LED" width="80px" src="https://media.istockphoto.com/vectors/red-led-icon-on-white-background-led-sign-light-emitting-diode-flat-vector-id886019460?k=20&m=886019460&s=170667a&w=0&h=m9Nty9VBLojMhEqKjtOZBZfNjjoZvw39a766V7jeGdY=" draggable="false"/>
