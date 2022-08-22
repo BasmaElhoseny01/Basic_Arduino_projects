@@ -30,4 +30,5 @@ https://user-images.githubusercontent.com/72309546/185811109-be51cf4d-eece-4c05-
 ### Notes:
 <ul>
 <li>LED long leg (Anode) +ve  ,  short led (Cathode) -ve.    If the connection is reveresed the LED won't work 😊</li>
+<li>LED is an analog device ranges [0-255]
 </ul>
