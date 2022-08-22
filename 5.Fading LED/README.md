@@ -1,5 +1,5 @@
 # Fadding LED 💡
-Controlling brightness of the LED using potonimeter
+Controlling the brightness of the LED using potentiometer
 
 ## 🎥 Demo
 https://user-images.githubusercontent.com/72309546/185895709-8cfa9547-f191-4844-8cc9-f9ca52231987.mp4
