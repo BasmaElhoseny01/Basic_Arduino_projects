@@ -19,13 +19,13 @@ https://user-images.githubusercontent.com/72309546/185887041-2b2d2b48-f0c3-446b-
  
  <ol>
  <li>Arduino UNO</li>
- <li>Potentiometer/</li>
+ <li>Potentiometer</li>
  <li>Jumper male-male wires</li>
   <li>Bread Board</li>
  </ol>
  
 ## 🔌 Connections:
- <img alt="Connection" width="100px" src="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/blob/main/4.Potentiometer/Potentiometer%20Connection.png" draggable="false"/>
+ <img alt="Connection" width="300px" src="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/blob/main/4.Potentiometer/Potentiometer%20Connection.png" draggable="false"/>
 
 ### Notes:
 <ul>
