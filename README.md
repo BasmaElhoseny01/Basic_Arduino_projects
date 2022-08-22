@@ -1,6 +1,9 @@
 # Basic_Arduino_projects
 This Repo is my Notes and projects of learning Arduino Uno
 
+## Arduino IDE 2.0 RC
+https://www.arduino.cc/en/software#experimental-software
+
 ## Course:
 <a href="https://www.udemy.com/course/arduino-sbs-17gs/">Arduino Step by Step: Getting Started</a>
 
