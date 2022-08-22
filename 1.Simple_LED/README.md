@@ -24,6 +24,9 @@ https://user-images.githubusercontent.com/72309546/185811109-be51cf4d-eece-4c05-
  <li>Jumper male-male wires</li>
  </ol>
 
+## 🔌 Connections:
+ <img alt="Connection" width="300px" src="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/blob/main/1.Simple_LED/Simple%20LED%20Connection.png" draggable="false"/>
+
 ### Notes:
 <ul>
 <li>LED long leg (Anode) +ve  ,  short led (Cathode) -ve.    If the connection is reveresed the LED won't work 😊</li>
