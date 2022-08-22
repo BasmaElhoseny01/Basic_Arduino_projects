@@ -4,6 +4,9 @@ This Repo is my Notes and projects of learning Arduino Uno
 ## Course:
 <a href="https://www.udemy.com/course/arduino-sbs-17gs/">Arduino Step by Step: Getting Started</a>
 
+## Arduino Documentation
+https://www.arduino.cc/reference/en/
+
 ## Projects:
 <ol>
 <li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/0.Basics">Basics</a></li>
