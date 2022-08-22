@@ -1,8 +1,8 @@
-# Simple LED:
+# Switch and LED:
 Button and LED project. When the button is clicked the LED is turned on else it is off.
 
 
-## Demo
+##  🎥 Demo
 https://user-images.githubusercontent.com/72309546/185813705-2e146943-aef3-4c65-ba09-2fa2e54a6c8b.MOV
 
 ## 🛠️ Components:
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/72309546/185813705-2e146943-aef3-4c65-
  
  
  
-## Connections:
+## 🔌 Connections:
 <img alt="Button and Led Connections" width="200px" src="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/blob/main/3.Switch_and_LED/Switch_and_LED_Connection.jpg" draggable="false"/>
 
 ### Notes:
