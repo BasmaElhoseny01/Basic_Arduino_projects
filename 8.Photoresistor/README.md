@@ -1,5 +1,5 @@
 # Photoresitor
-Dealing with photoresistor , Analog device [0-1023].
+Dealing with the photoresistor, Analog device [0-1023].
 
 
 ## 🎥 Demo
@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/72309546/185935343-e8f7286e-4dff-44e5-
  </ol>
 
 ## Selecting the fixed resistance value:
-if you selected the fixed resistance value=resistace of the photoresiatance @ normal light you will get best resolution
+if you selected the fixed resistance value=resistace of the photo resistance @ normal light you will get the best resolution
 for explanation:https://www.udemy.com/course/arduino-sbs-17gs/learn/lecture/5887910#overview
 
 ## 🔌 Connections:
@@ -35,5 +35,6 @@ for explanation:https://www.udemy.com/course/arduino-sbs-17gs/learn/lecture/5887
 <ul>
 <li>Photoresistor Analog device.</li>
 <li>It like a photocell whose resistance changes with light(Light Dependent Resistor).</li>
-<li>The relation between resitace and light is depending on the polarity you connect the photoresiatnce with</li>
+<li>The relation between resistance and light is depending on the polarity you connect the photoresistance with</li>
+<li>If you changed the polarity of 5v and GND the relation between reading and light </li>
 </ul>
