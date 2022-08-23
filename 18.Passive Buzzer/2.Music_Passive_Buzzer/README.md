@@ -1,5 +1,5 @@
 # Music Passive Buzzer
-Playing music with buzzer
+Playing music with Passive non-powered Buzzer
 
 ## 🎥 Demo
 https://user-images.githubusercontent.com/72309546/186127054-3442b495-959f-47ec-97f9-0c9dbfc162e9.mp4
@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/72309546/186127054-3442b495-959f-47ec-
  
  <ol>
  <li>Arduino UNO</li>
-  <li>Passive Buzzer</li>
+ <li>Passive non-powered Buzzer</li>
  <li>Jumper male-male wires</li>
  <li>Bread Board</li>
  </ol>
