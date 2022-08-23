@@ -1,5 +1,5 @@
 # Controlling Volume of Passive Buzzer
-Controlling the Volume of the simple Passive buzzer using a potentiometer.
+Controlling the Volume of the simple Passive non-powered buzzer using a potentiometer.
 
 ## 🎥 Demo
 https://user-images.githubusercontent.com/72309546/186127604-98999606-f8ae-40e0-86c6-0f737ddc07ac.mp4
@@ -21,8 +21,8 @@ https://user-images.githubusercontent.com/72309546/186127604-98999606-f8ae-40e0-
  
  <ol>
  <li>Arduino UNO</li>
-  <li>Passive Buzzer</li>
-  <li>Potentiometer</li>
+ <li>Passive non-powered Buzzer</li>
+ <li>Potentiometer</li>
  <li>Jumper male-male wires</li>
  <li>Bread Board</li>
  </ol>
