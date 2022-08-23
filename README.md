@@ -26,6 +26,10 @@ https://www.arduino.cc/reference/en/
 
 <li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/6.RGB%20LED">RGB LED</a></li>
 
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/07.Photoresistor">Photoresistor</a></li>
+
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/08.RGB%20sensor">RGB sensor</a></li>
+
 <li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/16.UltraSonic%20Sensor">UltraSonic Sensor</a></li>
 
 <li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/17.Aanlog%20sound%20Sensor">Aanlog sound Sensor</a></li>
