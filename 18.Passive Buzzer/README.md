@@ -1,5 +1,5 @@
 # Passive Buzzer Projects
-Simple mini-projects to deal with passive buzzer
+Simple mini-projects to deal with passive non-powered buzzer
 
 ## Projects:
 <ol>
