@@ -1,5 +1,5 @@
 # Simple Buzzer
-Dealing with Simple Passive buzzer with 2 pins GND and Signaa input
+Dealing with Simple Passive non-powered buzzer
 
 ## 🎥 Demo
 https://user-images.githubusercontent.com/72309546/186125684-3ea77bac-bac8-42a9-9cd5-38d007948233.mp4
@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/72309546/186125684-3ea77bac-bac8-42a9-
  
  <ol>
  <li>Arduino UNO</li>
-  <li>Passive Buzzer</li>
+ <li>Passive non-powered Buzzer</li>
  <li>Jumper male-male wires</li>
  <li>Bread Board</li>
  </ol>
