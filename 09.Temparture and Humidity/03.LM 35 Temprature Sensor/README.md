@@ -35,5 +35,5 @@ https://user-images.githubusercontent.com/72309546/189485876-4bc2b11c-ebd2-4151-
 
 ### Notes:
 <ul>
-<li>we have 2 connection first when we use in 5v and other is when using 3.3 but in the second case we have to modify the reference voltage of the Arduino to 3.3 instead of 5v by connecting AREF to3.3v
+<li>we have 2 connection first when we use in 5v and other is when using 3.3[which gives better accuracy] but in the second case we have to modify the reference voltage of the Arduino to 3.3 instead of 5v by connecting AREF to3.3v
 </ul>
