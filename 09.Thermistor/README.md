@@ -1,5 +1,10 @@
-# RGB Sensor
-Using RGB LED
+# DHT22 Temp and Humidity Sensor Sensor
+Digital Sensor
+
+## Specifications
+![image](https://user-images.githubusercontent.com/72309546/189480270-7ac11066-e96f-4086-84fd-2b9fb4aef7dc.png)
+Note:Sensing Period:2s so it needs 2 sec to take reading so don't read from it in period less than that
+
 
 ## Library
 <a href="https://github.com/adafruit/Adafruit_TCS34725">TCS library</a>
