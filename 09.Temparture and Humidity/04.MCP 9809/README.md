@@ -1,8 +1,13 @@
-# LM 35
-Analog Sensor to measure temperature
+# MCP 9809
+Very Accurate temperature Sensor.Analog Sensor to measure temperature
+
+## Libraries:
+<a href="https://github.com/adafruit/Adafruit_MCP9808_Library">Adafruit MCP9808 Library"</a>
+
 
 ## Specifications
-<img alt="" width="300px" src="https://user-images.githubusercontent.com/72309546/189485396-07123ea7-9ec1-491d-b399-8b11c8acfb35.png"/>
+<img alt="" width="300px" src="https://user-images.githubusercontent.com/72309546/189486776-6bf8df0d-4afc-4dc0-8f63-01c408321b1c.png"/>
+Note: Better accuracy when supply voltage is 3.3v
 
 
 ## 🎥 Demo
@@ -35,5 +40,5 @@ https://user-images.githubusercontent.com/72309546/189485876-4bc2b11c-ebd2-4151-
 
 ### Notes:
 <ul>
-<li>we have 2 connection first when we use in 5v and other is when using 3.3[which gives better accuracy] but in the second case we have to modify the reference voltage of the Arduino to 3.3 instead of 5v by connecting AREF to3.3v
+<li>We can Change address of the Sensor and refer to it from arduino by adding the new address to the .begin()<a href="https://www.udemy.com/course/arduino-sbs-17gs/learn/lecture/5887974#announcements">Refer to section</a></li>
 </ul>
