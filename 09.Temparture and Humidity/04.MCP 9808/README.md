@@ -1,5 +1,5 @@
 # MCP 9808
-Very Accurate temperature Analog Sensor.
+Very Accurate temperature Digital Sensor.
 
 ## Libraries:
 <a href="https://github.com/adafruit/Adafruit_MCP9808_Library">Adafruit MCP9808 Library</a>
