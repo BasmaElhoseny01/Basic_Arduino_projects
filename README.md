@@ -30,6 +30,14 @@ https://www.arduino.cc/reference/en/
 
 <li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/08.RGB%20sensor">RGB sensor</a></li>
 
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/09.Temparture%20and%20Humidity">Temprature and Humidity Sensors</a>
+<ol>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/09.Temparture%20and%20Humidity/01.DHT%2022%20Temp%20and%20Humidity%20Sensor">DHT 22</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/09.Temparture%20and%20Humidity/02.Thermistor">Thermistor</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/09.Temparture%20and%20Humidity/03.LM%2035%20Temprature%20Sensor">LM 35</a></li>
+</ol>
+</li>
+
 <li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/16.UltraSonic%20Sensor">UltraSonic Sensor</a></li>
 
 <li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/17.Aanlog%20sound%20Sensor">Aanlog sound Sensor</a></li>
