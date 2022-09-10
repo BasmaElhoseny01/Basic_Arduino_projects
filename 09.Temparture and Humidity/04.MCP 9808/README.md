@@ -1,8 +1,8 @@
 # MCP 9808
-Very Accurate temperature Sensor.Analog Sensor to measure temperature
+Very Accurate temperature Analog Sensor.
 
 ## Libraries:
-<a href="https://github.com/adafruit/Adafruit_MCP9808_Library">Adafruit MCP9808 Library"</a>
+<a href="https://github.com/adafruit/Adafruit_MCP9808_Library">Adafruit MCP9808 Library</a>
 
 
 ## Specifications
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/72309546/189487936-1c0ebe85-ac6f-4a3e-
  </ol>
 
 ## 🔌 Connections:
- <img alt="Connection" width="300px" src="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/blob/main/11.LM%2035%20Temprature%20Sensor/LM%2036%20Connection%205v.png](https://user-images.githubusercontent.com/72309546/189488017-a9b0f2b9-8734-44c0-8768-e91f262ff140.png)"/>
+ <img alt="Connection" width="300px" src="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/blob/main/09.Temparture%20and%20Humidity/04.MCP%209808/MCP9808%20Connection.png"/>
 
 
 ### Notes:
