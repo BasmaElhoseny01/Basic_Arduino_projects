@@ -39,27 +39,29 @@ https://www.arduino.cc/reference/en/
 </ol>
 </li>
 
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/16.UltraSonic%20Sensor">UltraSonic Sensor</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/10.Detecting%20Accelration%20ADXL335">ADXL335 Acceleration Sensor</a></li>
 
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/17.Aanlog%20sound%20Sensor">Aanlog sound Sensor</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/11.Infrared%20Sensor">Infrared Sensor</a></li>
 
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/18.Passive%20Buzzer">Passive Buzzer</a>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/12.UltraSonic%20Sensor">UltraSonic Sensor</a></li>
+
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/13.Aanlog%20sound%20Sensor">Analog sound Sensor</a></li>
+
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/14.Passive%20Buzzer">Passive Buzzer</a>
 <ol>
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/18.Passive%20Buzzer/1.Simple_Buzzer">Simple Buzzer</a></li>
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/18.Passive%20Buzzer/2.Music_Passive_Buzzer">Music Passive Buzzer</a></li>
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/18.Passive%20Buzzer/3.Controlling_Volume">Controlling Volume</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/14.Passive%20Buzzer/1.Simple_Buzzer">Simple Buzzer</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/14.Passive%20Buzzer/2.Music_Passive_Buzzer">Music Passive Buzzer</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/14.Passive%20Buzzer/3.Controlling_Volume">Controlling Volume</a></li>
 </ol>
 </li>
 
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/19.LCD">LCD</a>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/15.LCD">LCD</a>
 <ol>
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/19.LCD/1.Displaying%20Message%20and%20counter">Displaying Message and counter</a> </li>
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/19.LCD/2.Sensor%20on%20the%20LCD">Sensor on the LCD</a></li>
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/19.LCD/3.LCD%20using%20I2C">LCD using I2C</a></li>
-<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/19.LCD/4.Sensor%20on%20LCD%20with%20I2C">Sensor on LCD with I2C</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/15.LCD/1.Displaying%20Message%20and%20counter">Displaying Message and counter</a> </li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/15.LCD/2.Sensor%20on%20the%20LCD">Sensor on the LCD</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/15.LCD/3.LCD%20using%20I2C">LCD using I2C</a></li>
+<li><a href="https://github.com/BasmaElhoseny01/Basic_Arduino_projects/tree/main/15.LCD/4.Sensor%20on%20LCD%20with%20I2C">Sensor on LCD with I2C</a></li>
 </ol>
 </li>
-
-
 
 </ol>
